@@ -1,6 +1,6 @@
 {
   "name": "async-recaptcha",
-  "version": "0.0.2",
+  "version": "1.0.0-0",
   "description": "Handles Google reCaptcha verification asynchronously",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/BrianEmilius/async-recaptcha/issues"
   },
-  "homepage": "https://github.com/BrianEmilius/async-recaptcha#readme"
+  "homepage": "https://github.com/BrianEmilius/async-recaptcha#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
