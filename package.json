@@ -1,0 +1,28 @@
+{
+  "name": "async-recaptcha",
+  "version": "0.0.2",
+  "description": "Handles Google reCaptcha verification asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianEmilius/async-recaptcha.git"
+  },
+  "keywords": [
+    "npm",
+    "recaptcha",
+    "async",
+    "validation",
+    "verify",
+    "verification",
+    "nodejs"
+  ],
+  "author": "Brian Emilius <brian@brianemilius.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianEmilius/async-recaptcha/issues"
+  },
+  "homepage": "https://github.com/BrianEmilius/async-recaptcha#readme"
+}
