@@ -1,3 +1,3 @@
 module.exports = function() {
-    require('./src/index');
+    require('./src/async-recaptcha');
 }
