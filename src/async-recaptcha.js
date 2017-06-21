@@ -6,7 +6,7 @@ const request = require('request');
  * @param {string} secret - your Google reCaptcha secret string
  * @returns {Promise}
  */
-async function asyncRecaptcha(captchaResponse, secret) {
+function asyncRecaptcha(captchaResponse, secret) {
 	let options = {
 		url: 'https://www.google.com/recaptcha/api/siteverify',
 		method: 'POST',
